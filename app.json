@@ -1,0 +1,18 @@
+{
+    "name": "blog002",
+    "description": "personalblog002",
+    "keywords": [],
+    "env": {
+        "TYPE": {
+            "description": "blogdescription",
+            "value": "vless"
+        },
+        "UUID": {
+            "description": "UUID",
+            "value": ""
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
